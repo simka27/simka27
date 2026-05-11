@@ -3,23 +3,20 @@
 </h3>
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcwMzk0bjdlMWVyZ2NmZ3Jha240aDR4aHBvcDJoeGNidmY0cGZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+  <img src="https://giphy.com/gifs/afvpets-3o85xCVh0TmBrQr36U" width="200"/>
 </div>
 
 <h2>&#127760; Social:</h2>
 
 <div id="badges">
-  <a href="https://vk.com/xutrikk">
+  <a href="https://vk.com/id349907436">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
   </a>
-  <a href="https://www.instagram.com/xutrikk/">
+  <a href="https://www.instagram.com/_simka_600/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://t.me/Xutrikk">
+  <a href="https://www.t.me/siiiiiimka/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/Xutrikk">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
@@ -27,7 +24,7 @@
 
 ### &#128105;&#8205;&#128187; About Me :
 :man_student:Student of IT faculty at BSTU<br>
-&#127961;&#65039; Minsk/Glusk, Belarus
+&#127961;&#65039; Minsk/Gomel, Belarus
 
 ---
 ### &#128736;&#65039; I work with programming languages :
@@ -38,7 +35,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183670.png"  title="XML" alt="XML" width="40" height="40"/>&nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
