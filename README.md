@@ -3,7 +3,7 @@
 </h3>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/afvpets-3o85xCVh0TmBrQr36U" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl3aHV5am1hZHAzcDRrcHMwenh6MDI4bWc2c3Z5NjV2bGoxdG41eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xCVh0TmBrQr36U/giphy.gif" width="200"/>
 </div>
 
 <h2>&#127760; Social:</h2>
